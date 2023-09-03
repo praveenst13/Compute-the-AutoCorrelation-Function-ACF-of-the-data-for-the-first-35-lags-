@@ -66,12 +66,12 @@ plt.title("Autocorrelation Plot")
 plt.xlabel("Lags")
 plt.plot(acorr)
 print("The Autocorrelation plot for the data is:")
-
-
 plt.show()
-
 ```
+
+
 ## Output:
+
 
 
 ![tsf](https://github.com/praveenst13/Compute-the-AutoCorrelation-Function-ACF-of-the-data-for-the-first-35-lags-/assets/118787793/45bc51b9-56c7-4e0e-8b21-e622ac40c01b)
