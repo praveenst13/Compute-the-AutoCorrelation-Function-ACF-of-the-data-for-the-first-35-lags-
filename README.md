@@ -7,14 +7,12 @@ To Write a Program to time series analysis and decomposition on the monthly aver
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Procedure:
-    1 Import the numpy and matplotlib.pyplot modules.
-    2 Read the dataset using pandas
-    3 plot the data using matplotlib.pyplot library function
-    4 Plot the data according to need, either seasonal_decomposition or trend plot.
-    5 Display the overall results.
+   1 Import the numpy and matplotlib.pyplot modules.
+   2 Find the mean, variance and then implement normalization for the data.
+   3 Implement the correlation using necessary logic and obtain the results
+   4 Store the results in an array
+   5 Represent the result in graphical representation as given below.
   
-  
-
 ## Program:
 ```
 
