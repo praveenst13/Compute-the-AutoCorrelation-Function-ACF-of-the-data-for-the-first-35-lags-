@@ -75,5 +75,8 @@ plt.show()
 
 ![tsf2](https://github.com/praveenst13/Compute-the-AutoCorrelation-Function-ACF-of-the-data-for-the-first-35-lags-/assets/118787793/5725d9d5-9a1f-4165-8691-2126213db43b)
 
+## RESULT:
+
+Thus we have successfully implemented the auto correlation function using above mentioned program.
 
 
